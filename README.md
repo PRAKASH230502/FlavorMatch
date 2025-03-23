@@ -27,7 +27,7 @@ The project uses a dataset containing Indian recipes with the following features
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/arpitasingh16/Flavour-Match-.git
+git clone https://github.com/PRAKASH230502/FlavorMatch.git
 cd flavour-match
 <br>
 2️⃣ Create a Virtual Environment (Optional)
